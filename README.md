@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Rust, Solana, Ethereum, MERN<br>👯 I’m looking to collaborate on Web3 & Blockchain projects<br>🤝 I’m looking for help with Blockchain & Web3<br>🌱 I’m currently learning Rust, MERN<br>💬 Ask me about Web3, Solana, Ethereum<br>⚡ Fun fact i love cricket
+🔭 I’m currently working on Web3, Blockchain & MERN<br>👯 I’m looking to collaborate on Web3 & Blockchain projects<br>🤝 I’m looking for help with Blockchain & Web3<br>🌱 I’m currently learning Rust, MERN<br>💬 Ask me about Web3, Solana, Ethereum<br>⚡ Fun fact i love cricket
 
 
 ## 🌐 Socials:

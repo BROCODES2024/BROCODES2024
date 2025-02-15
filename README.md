@@ -11,7 +11,11 @@
 ![](https://github-readme-stats.vercel.app/api?username=BROCODES2024&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=BROCODES2024&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=BROCODES2024&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=brocodes2024&show_icons=true&locale=en&layout=compact" alt="brocodes2024" /></p>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=brocodes2024&show_icons=true&locale=en" alt="brocodes2024" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=brocodes2024&" alt="brocodes2024" /></p>
 ---
 [![](https://visitcount.itsvg.in/api?id=BROCODES2024&icon=0&color=0)](https://visitcount.itsvg.in)
 

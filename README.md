@@ -1,9 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on MERN  
-👯 I’m looking to collaborate on Interesting Projects   
-🌱 I’m currently learning Devops
-💬 Ask me about WebDev, Web3
-⚡ Fun fact: I love cricket  
+I'm a final-year student at IIT Tirupati who discovered my passion for software development through competitive programming and open-source contributions. I love building real-time systems and working with emerging technologies. What drives me is understanding complex systems deeply and making them work reliably at scale.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kchetanreddy) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/CKodidela) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:chetanreddyk394@gmail.com) [![LeetCode](https://img.shields.io/badge/LeetCode-%23006400.svg?logo=leetcode&logoColor=white)](https://leetcode.com/u/BROCODES2024/) [![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-%2300C853.svg?logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/red2024/)  
